@@ -1,0 +1,15 @@
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\bin\Debug\net7.0\atividade1.exe
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\bin\Debug\net7.0\atividade1.deps.json
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\bin\Debug\net7.0\atividade1.runtimeconfig.json
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\bin\Debug\net7.0\atividade1.dll
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\bin\Debug\net7.0\atividade1.pdb
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.csproj.AssemblyReference.cache
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfoInputs.cache
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfo.cs
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.csproj.CoreCompileInputs.cache
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.dll
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\refint\atividade1.dll
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.pdb
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\atividade1.genruntimeconfig.cache
+C:\Users\msiqu\OneDrive\Documentos\_SENAI\atividade1\obj\Debug\net7.0\ref\atividade1.dll
